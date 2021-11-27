@@ -2,7 +2,8 @@
 Online charity system using node js mysql and ejs as templating
 
 Frontend:
-HTML 
+
+HTML
 CSS 
 JAVASCRIPT 
 JQUERY
